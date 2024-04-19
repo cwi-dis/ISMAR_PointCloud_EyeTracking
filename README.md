@@ -24,3 +24,24 @@ and H1_C2_R2_FrontView.
 
 https://github.com/cwi-dis/ISMAR_PointCloud_EyeTracking/assets/49033781/008b8b87-3f8a-4006-ba7a-4068eb6fd9c3
 
+### Conditions of use
+
+If you wish to use any of the provided material in your research, we kindly ask you to cite our paper.
+- BibTex
+```
+@INPROCEEDINGS{10316522,
+  author={Zhou, Xuemei and Viola, Irene and Alexiou, Evangelos and Jansen, Jack and Cesar, Pablo},
+  booktitle={2023 IEEE International Symposium on Mixed and Augmented Reality (ISMAR)}, 
+  title={QAVA-DPC: Eye-Tracking Based Quality Assessment and Visual Attention Dataset for Dynamic Point Cloud in 6 DoF}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={69-78},
+  keywords={Point cloud compression;Measurement;Visualization;Solid modeling;Head-mounted displays;Gaze tracking;Inspection;Volumetric video;Dynamic point cloud;Visual saliency;Visual attention;Subjective quality assessment;Objective quality metrics;Eye tracking;6DoF},
+  doi={10.1109/ISMAR59233.2023.00021}}
+```
+## About 
+The QAVA-DPC Dataset is maintained by the Distributed & Interactive Systems (DIS) research group at Centrum Wiskunde & Informatica (CWI).
+
+Contact the authors
+- Xuemei Zhou: xuemei.zhou@cwi.nl
