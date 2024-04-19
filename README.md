@@ -7,7 +7,7 @@ Name Convension of files:
 H1_C2_R2_191: stimuli name_codec_distortion level_rotation_degree  
 4246452_rafa_084.txt filename explanation: timestamp_point cloud name_frame_number  
 # Raw Gaze data for 40 users
-In this folder, it includes all the experimental data related to the eye-tracking (in the json file) and the original opinion scores (in two txt files) of each user. It can be downloaded from: [GazeData](https://zenodo.org/records/10996417)
+In this folder, it includes all the experimental data related to the eye-tracking (in the json file) and the original opinion scores (in two txt files) of each user. It can be downloaded from: [GazeData](https://zenodo.org/records/10996417)  
 user_001 : user_userindex
 001_A.txt: userindex_session.txt
 20230317-2301_001_A.jason:date_userindex_session.json
