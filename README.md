@@ -1,5 +1,5 @@
 # ISMAR_PointCloud_EyeTracking
-The office repo for QAVA-DPC: Eye-Tracking Based Quality Assessment and Visual Attention Dataset for Dynamic Point Cloud in 6 DoF ISMAR 2023
+The official repo for QAVA-DPC: Eye-Tracking Based Quality Assessment and Visual Attention Dataset for Dynamic Point Cloud in 6 DoF ISMAR 2023
 # Visual Saliency Map 
 Generated visual saliency map per user can be downloaded via this link: [Visual Saliancy Map](https://zenodo.org/records/10996417)  
 Name Convension of files:
