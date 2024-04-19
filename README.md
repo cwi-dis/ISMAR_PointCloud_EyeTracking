@@ -14,15 +14,15 @@ user_001 : user_userindex
 
 
 # Visualization:
-This is the video of the H1_C2_R2_BackView  
+This is the video of the H5_C0_R0_BackView  
 
-![Video Visualization](https://github.com/cwi-dis/ISMAR_PointCloud_EyeTracking/tree/main/video/) 
+![Video Visualization](https://github.com/cwi-dis/ISMAR_PointCloud_EyeTracking/blob/main/video/H5_C0_R0_BackView-ezgif.com-crop.gif)   
 
 
 
-and H1_C2_R2_FrontView.  
+and H5_C0_R0_FrontView.  
 
-https://github.com/cwi-dis/ISMAR_PointCloud_EyeTracking/assets/49033781/008b8b87-3f8a-4006-ba7a-4068eb6fd9c3
+![Video Visualization](https://github.com/cwi-dis/ISMAR_PointCloud_EyeTracking/blob/main/video/H5_C0_R0_FrontView-ezgif.com-crop.gif)  
 
 ### Conditions of use
 
