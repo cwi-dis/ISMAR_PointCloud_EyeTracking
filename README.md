@@ -13,10 +13,11 @@ user_001 : user_userindex
 20230317-2301_001_A.jason:date_userindex_session.json
 The Unity project and whole dataset will come soon.
 
-This is the video of the H1_C2_R2_BackView and H1_C2_R2_FrontView.
+# Visualization:
+This is the video of the H1_C2_R2_BackView 
 https://github.com/cwi-dis/ISMAR_PointCloud_EyeTracking/assets/49033781/12003cb8-a8dc-499c-8c4d-6a871e04c282
 
 
-
+and H1_C2_R2_FrontView.
 https://github.com/cwi-dis/ISMAR_PointCloud_EyeTracking/assets/49033781/c44c6224-5d33-485f-8c3a-4fd2ade349d6
 
