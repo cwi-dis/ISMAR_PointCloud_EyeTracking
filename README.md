@@ -11,7 +11,7 @@ In this folder, it includes all the experimental data related to the eye-trackin
 user_001 : user_userindex
 001_A.txt: userindex_session.txt
 20230317-2301_001_A.jason:date_userindex_session.json
-The Unity project and whole dataset will come soon.
+
 
 # Visualization:
 This is the video of the H1_C2_R2_BackView  
