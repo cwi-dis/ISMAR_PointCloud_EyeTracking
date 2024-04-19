@@ -16,7 +16,7 @@ user_001 : user_userindex
 # Visualization:
 This is the video of the H1_C2_R2_BackView  
 
-https://github.com/cwi-dis/ISMAR_PointCloud_EyeTracking/assets/49033781/f1b12600-7e13-4863-84b6-898b7bc264a4  
+![Video Visualization](https://github.com/cwi-dis/ISMAR_PointCloud_EyeTracking/tree/main/video/) 
 
 
 
