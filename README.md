@@ -12,6 +12,9 @@ user_001 : user_userindex
 001_A.txt: userindex_session.txt  
 20230317-2301_001_A.json:date_userindex_session.json
 
+# Calculated Quality Scores
+You can find the calculated Mean Opinion Scores (Mos) and DMOS in the MOS/mos.csv and MOS/dmos.cvs.
+
 
 # Visualization:
 This is the video of the H5_C0_R0_BackView  
