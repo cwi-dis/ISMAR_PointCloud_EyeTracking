@@ -27,6 +27,15 @@ and H5_C0_R0_FrontView.
 
 ![Video Visualization](https://github.com/cwi-dis/ISMAR_PointCloud_EyeTracking/blob/main/video/H5_C0_R0_FrontView-ezgif.com-crop.gif)  
 
+## Quick Start
+# Device Specifications
+- Processor	Intel(R) Core(TM) i7-9700 CPU @ 3.00GHz   3.00 GHz
+- Installed RAM	32,0 GB
+- Device ID	D415874E-183F-4E30-B8B7-FA373C373E84
+- Product ID	00329-10333-35181-AA552
+- System type	64-bit operating system, x64-based processor
+
+
 ### Conditions of use
 
 If you wish to use any of the provided material in your research, we kindly ask you to cite our paper.
