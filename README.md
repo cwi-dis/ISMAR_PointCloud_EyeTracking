@@ -6,6 +6,14 @@ Name Convension of files:
 001_A: uer_session  
 H1_C2_R2_191: stimuli name_codec_distortion level_rotation_degree  
 4246452_rafa_084.txt filename explanation: timestamp_point cloud name_frame_number  
+## Contents
+The VisualSaliencyMap folder includes:
+-- HeatValue:
+This subfolder contains the heat values for each frame in a dynamic point cloud sequence. Each point's heat value is saved in a text file, with values ranging from 0 to 1.
+
+--HeatValuewithPointCloud:
+This subfolder provides visualizations of all heat values for each frame. The heat values are overlaid on top of the point cloud for each frame in all dynamic point cloud sequences.
+
 # Raw Gaze data for 40 users
 In this folder, it includes all the experimental data related to the eye-tracking (in the json file) and the original opinion scores (in two txt files) of each user. It can be downloaded from: [GazeData](https://zenodo.org/records/10996417)  
 user_001 : user_userindex
