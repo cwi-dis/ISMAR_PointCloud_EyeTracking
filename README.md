@@ -6,7 +6,8 @@ The visual saliency maps generated per user can be downloaded from the following
 
 ## File Naming Conventions
 
-- **User Session Files (Name Convension)**   
+- **User Session Files (Name Convension)**
+  Format: `001_A`  
   - `001`: User ID  
   - `A`: Session
 
