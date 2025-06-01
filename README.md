@@ -6,6 +6,8 @@ Name Convension of files:
 001_A: uer_session  
 H1_C2_R2_191: stimuli name_codec_distortion level_rotation_degree  
 4246452_rafa_084.txt filename explanation: timestamp_point cloud name_frame_number  
+{H1:rafa2, H2:dancer, H3:exercise,H4:longdress,H5:soldier}
+{C1:VPCC，C2：GPCC，C3：CWIPCL}
 ## Contents
 The VisualSaliencyMap folder includes:
 - HeatValue:
