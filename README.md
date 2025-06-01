@@ -1,13 +1,42 @@
 # ISMAR_PointCloud_EyeTracking
 The official repo for QAVA-DPC: Eye-Tracking Based Quality Assessment and Visual Attention Dataset for Dynamic Point Cloud in 6 DoF ISMAR 2023
 # Visual Saliency Map 
-Generated visual saliency map per user can be downloaded via this link: [Visual Saliancy Map](https://zenodo.org/records/10996417)  
-Name Convension of files:
-001_A: uer_session  
-H1_C2_R2_191: stimuli name_codec_distortion level_rotation_degree  
-4246452_rafa_084.txt filename explanation: timestamp_point cloud name_frame_number  
-{H1:rafa2, H2:dancer, H3:exercise,H4:longdress,H5:soldier}
-{C1:VPCC，C2：GPCC，C3：CWIPCL}
+The visual saliency maps generated per user can be downloaded from the following link:  
+👉 [Download Visual Saliency Maps on Zenodo](https://zenodo.org/records/10996417)
+
+## File Naming Conventions
+
+- **User Session Files (Name Convension)**   
+  - `001`: User ID  
+  - `A`: Session
+
+- **Stimulus Files**  
+  Format: `H1_C2_R2_191`  
+  - `H1`: Point cloud name  
+  - `C2`: Codec   
+  - `R2`: Distortion level  
+  - `191`: Rotation degree
+
+- **Saliency Map Text Files**  
+  Format: `4246452_rafa_084.txt`  
+  - `4246452`: Timestamp  
+  - `rafa`: Point cloud name  
+  - `084`: Frame number
+
+## Label Definitions
+
+- **Point Cloud Names (H\#):**  
+  - `H1`: rafa2  
+  - `H2`: dancer  
+  - `H3`: exercise  
+  - `H4`: longdress  
+  - `H5`: soldier
+
+- **Codecs (C\#):**  
+  - `C1`: VPCC  
+  - `C2`: GPCC  
+  - `C3`: CWIPCL
+
 ## Contents
 The VisualSaliencyMap folder includes:
 - HeatValue:
