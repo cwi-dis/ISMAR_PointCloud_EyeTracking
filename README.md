@@ -6,20 +6,19 @@ The visual saliency maps generated per user can be downloaded from the following
 
 ## File Naming Conventions
 
-- **User Session Files (Name Convension)**
-  Format: `001_A`  
+- **Format: `001_A`**
+    
   - `001`: User ID  
   - `A`: Session
 
-- **Stimulus Files**  
-  Format: `H1_C2_R2_191`  
+- **Format: `H1_C2_R2_191`**    
   - `H1`: Point cloud name  
   - `C2`: Codec   
   - `R2`: Distortion level  
   - `191`: Rotation degree
 
-- **Saliency Map Text Files**  
-  Format: `4246452_rafa_084.txt`  
+- **Format: `4246452_rafa_084.txt`**  
+    
   - `4246452`: Timestamp  
   - `rafa`: Point cloud name  
   - `084`: Frame number
